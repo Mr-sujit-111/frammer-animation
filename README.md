@@ -1,6 +1,6 @@
 # Tailwind + Next.js Frammer-motion frontend example
 
-DEMO 👉 https://vercel.com/mr-sujit-111/frammer-animation/6UrF1MuvMegkUZuJpmgYw6HLBM1d
+DEMO 👉 https://frammer-animation-ciihkle32-mr-sujit-111.vercel.app/
 
 This is an example [TailwindCss](https://tailwindcss.com) powered frontend for the Animation using [Next.js](https://nextjs.org) and [Frammer](https://www.framer.com/motion).
 
